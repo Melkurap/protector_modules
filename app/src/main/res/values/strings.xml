@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Protector Modules</string>
+    <string name="uruchom_temperatur_barwow">Uruchom Temperaturę barwową</string>
+    <string name="uruchom_automatyczne_przerwy">Uruchom automatyczne przerwy</string>
+</resources>

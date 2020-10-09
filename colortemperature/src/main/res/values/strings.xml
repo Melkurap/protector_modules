@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Temperature</string>
+    <string name="sensor_on">Włącz czujnik</string>
+    <string name="sensor_off">Wyłącz czujnik</string>
+    <string name="uruchom_temperatur_barwowa">Uruchom Temperaturę barwową</string>
+    <string name="uruchom_automatyczne_przerwy">Uruchom automatyczne przerwy</string>
+</resources>

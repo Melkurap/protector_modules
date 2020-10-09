@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Automatic Pauses</string>
+    <string name="title_activity_alert_dialog">AlertDialogActivity</string>
+    <string name="OpisMikroPrzerwy">Czas na mikroprzerwę, chcesz ją w tym momencie? </string>
+    <string name="OpisMakroPrzerwy">Czas na makroprzerwę, chcesz ją w tym momencie? </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="start">start</string>
+    <string name="reset">reset</string>
+    <string name="Ustaw">Ustaw</string>
+    <string name="Ustaw_liczniki">Ustaw liczniki</string>
+    <string name="Zobacz_liczniki">Zobacz liczniki</string>
+
+</resources>
