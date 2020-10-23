@@ -16,8 +16,9 @@
   <img src="./images/breaktime.png">
 </p>
 
-<br />
+
   The second module named "colortemperature" includes a logical device overlay, which has special algorithm enumerating color temperature using three colors RGB. Furthermore, the one has three buttons: color temperature, intensity, brightness level. The buttons may be regulating manually or automatically by light sensor of android system. There are four ranges of lumen(lx).
+
 <br />
 
 <p align="center">
