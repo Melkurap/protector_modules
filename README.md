@@ -5,9 +5,11 @@ This bachelor's thesis code concern a mobile application in Android system opera
 
 <p align="center">
   <img src="./images/background.png">
+  <code>-</code>
+  <img src="./images/automaticpauses.png">
 </p>
 
-![automaticpauses](./images/automaticpauses.png) <code>-</code> ![breaktime](./images/breaktime.png) <code>-</code> ![breakdecision](./images/breakdecision.png)    
+![breaktime](./images/breaktime.png) <code>-</code> ![breakdecision](./images/breakdecision.png)    
 ![lowlight](./images/lowlight.png) <code>-</code> ![highlight](./images/highlight.png) 
 
 
